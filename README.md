@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Manikandan Baskar
+# Hi, I'm Manikandan Baskar
 
-🚀 **Lead Software Engineer** | 📊 **Data Scientist in Progress** | 🤖 **Automation & AI Enthusiast**
+**Lead Software Engineer** | **Data Scientist in Progress** | **Automation & AI Enthusiast**
 
 Welcome to my GitHub! I specialize in building scalable automation tools, AI-powered solutions, and intelligent dashboards that simplify complex business processes.
 
 ---
 
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 - **Languages**: Python, JavaScript, SQL, Google Apps Script, VBA
 - **Data & ML**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP, LightGBM, Matplotlib, Seaborn
@@ -17,7 +17,7 @@ Welcome to my GitHub! I specialize in building scalable automation tools, AI-pow
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 - **Lead Conversion Prediction Pipeline**  
   End-to-end ML system with feature engineering, SMOTE, SHAP explainability, LightGBM optimization.
