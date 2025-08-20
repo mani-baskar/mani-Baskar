@@ -52,4 +52,4 @@ Welcome to my GitHub! I specialize in building scalable automation tools, AI-pow
 ### ✨ Motto:
 > “Turn data into action, and action into growth.”
 
-Thanks for visiting! Feel free to follow, fork, or connect 🚀
+Thanks for visiting! Feel free to follow, fork, or connect
