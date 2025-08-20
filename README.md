@@ -43,9 +43,8 @@ Welcome to my GitHub! I specialize in building scalable automation tools, AI-pow
 
 ### Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/manikandan2014/)
-- 🌍 [Portfolio/Blog](https://dataindia.in) *(Coming Soon!)*
-- 📧 Email: Available on request
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mani-baskar/)
+- 📧 Email: mani111355@gmail.com
 
 ---
 
